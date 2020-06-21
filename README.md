@@ -49,3 +49,13 @@ defaultLanguage: 'zh-cn',
 },
 ```
 
+
+
+## publish in the Github
+
+
+
+`settings` > `GitHub Pages` > `Source` > master
+
+> Your site is ready to be published at https://hanson-hao-wu.github.io/blog-with-docsite/.
+
