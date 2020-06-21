@@ -59,3 +59,8 @@ defaultLanguage: 'zh-cn',
 
 > Your site is ready to be published at https://hanson-hao-wu.github.io/blog-with-docsite/.
 
+
+
+## Ref.
+
+[如何打造一款静态开源站点搭建工具](https://juejin.im/post/5b95dbeee51d450e51624539)
